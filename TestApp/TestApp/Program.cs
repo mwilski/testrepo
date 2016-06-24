@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("test123");
+            Console.WriteLine("anothermsg");
         }
     }
 }

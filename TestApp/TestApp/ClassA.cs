@@ -8,5 +8,9 @@ namespace TestApp
 {
     class ClassA
     {
+        public ClassA()
+        {
+            Console.WriteLine("featureA branch");
+        }
     }
 }

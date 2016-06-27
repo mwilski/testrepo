@@ -8,5 +8,9 @@ namespace TestApp
 {
     class ClassB
     {
+        public void method()
+        {
+
+        }
     }
 }

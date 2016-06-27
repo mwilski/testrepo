@@ -11,7 +11,9 @@ namespace TestApp
         public ClassA()
         {
             Console.WriteLine("featureA branch");
-
+            Console.WriteLine("some change");
+            Console.WriteLine("some change");
+            Console.WriteLine("some change");
             Console.WriteLine("some change");
         }
     }
